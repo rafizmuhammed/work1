@@ -1,5 +1,3 @@
-welcome to python
-
-Python is a high-level, interpreted, general-purpose programming language.
-Its design philosophy emphasizes code readability with the use of significant indentation.
-Python is dynamically-typed and garbage-collected
+Java is a high-level, class-based,
+object-oriented programming language that is designed
+to have as few implementation dependencies as possible
